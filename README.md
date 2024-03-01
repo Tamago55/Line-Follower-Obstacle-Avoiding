@@ -3,13 +3,14 @@
 ## 1. Introduction
 In this project, we have created a line-following tank that is capable of avoiding obstacles, using an Arduino-based platform (RoMeo BLE v1.0). This tank utilizes infrared sensors to detect a black line on the ground (not magnetic tape) and follows it. Additionally, it employs ultrasonic sensors to identify obstacles and navigate around them. The robot can operate in complete darkness and is able to rejoin the main dark line even if there are other misleading lines present after avoiding an obstacle. Furthermore, if the line is broken while moving forward, it can also find its way back to the path.
 
-See the demostration video!!
-<a href="https://www.youtube.com/shorts/7qLS-UVV_zI" target="_blank"><img src="http://img.youtube.com/vi/7qLS-UVV_zI/hqdefault.jpg" alt="Watch the video"></a>
+Click to see the demonstration video below!!
+
+<a href="https://www.youtube.com/shorts/7qLS-UVV_zI" target="_blank" rel="noopener noreferrer"><img src="http://img.youtube.com/vi/7qLS-UVV_zI/hqdefault.jpg" alt="Watch the video" style="max-width:100%;"></a>
 
 
 ## 2. Hardware Components
-![Tank Image](path/to/tank_image.png)
-- [RoMeo BLE v1.0](https://github.com/Tamago55/Line-Follower-Obstacle-Avoiding/blob/main/pic/tank.png)
+![Tank Image](https://github.com/Tamago55/Line-Follower-Obstacle-Avoiding/blob/main/pic/tank.png)
+- [RoMeo BLE v1.0](https://wiki.dfrobot.com/RoMeo_BLE__SKU_DFR0305_)
 - Devastator Tank Mobile Platform
 - Ultrasonic Sensor
 - Mini Servo Motor
