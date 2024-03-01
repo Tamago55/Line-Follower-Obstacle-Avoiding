@@ -1,4 +1,4 @@
-# Line_Follower_and_Obstacle_Avoiding_Tank
+# Line Follower and Obstacle Avoiding Tank
 
 ## 1. Introduction
 In this project, we have created a line-following tank that is capable of avoiding obstacles, using an Arduino-based platform (RoMeo BLE v1.0). This tank utilizes infrared sensors to detect a black line on the ground (not magnetic tape) and follows it. Additionally, it employs ultrasonic sensors to identify obstacles and navigate around them. The robot can operate in complete darkness and is able to rejoin the main dark line even if there are other misleading lines present after avoiding an obstacle. Furthermore, if the line is broken while moving forward, it can also find its way back to the path.
