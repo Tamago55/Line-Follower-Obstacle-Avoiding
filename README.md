@@ -9,7 +9,7 @@ Click to see the demonstration video below!!
 
 
 ## 2. Hardware Components
-![Tank Image](https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG)
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="50%" alt="Tank Image">
 - [RoMeo BLE v1.0](https://wiki.dfrobot.com/RoMeo_BLE__SKU_DFR0305_)
 - Devastator Tank Mobile Platform
 - Ultrasonic Sensor
@@ -21,9 +21,11 @@ Click to see the demonstration video below!!
 
 ## 4. Logic
 ### Obstacle Avoidance
-![Obstacle Avoidance Logic Image](https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step1.png)
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step1.png" width="50%" alt="Obstacle Avoidance Logic Image">
+
 ### Line Detection
-![Line Detection Logic Image](https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step2.png)
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step2.png" width="50%" alt="Line Detection Logic Image">
+
 ### Combine Object Avoidance and Line Detection
-![Combined Logic Image](https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step3.png)
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step3.png" width="50%" alt="Combined Logic Image">
 
