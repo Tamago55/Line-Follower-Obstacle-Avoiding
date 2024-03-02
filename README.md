@@ -27,5 +27,5 @@ Click to see the demonstration video below!!
 <img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step2.png" width="50%" alt="Line Detection Logic Image">
 
 ### Combine Object Avoidance and Line Detection
-<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step3.png" width="30%" alt="Combined Logic Image">
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/step3.png" width="20%" alt="Combined Logic Image">
 
