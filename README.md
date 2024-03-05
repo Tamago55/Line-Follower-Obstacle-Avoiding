@@ -11,9 +11,13 @@ Click to see the demonstration video below!!
 ## 2. Hardware Components
 <img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="30%" alt="Tank Image">
 - [RoMeo BLE v1.0](https://wiki.dfrobot.com/RoMeo_BLE__SKU_DFR0305_)
+
 - Devastator Tank Mobile Platform
+  
 - Ultrasonic Sensor
+  
 - Mini Servo Motor
+  
 - 3 Channel IR Sensor
 
 ## 3. Software 
